@@ -325,6 +325,8 @@ FREEZE_MODULE_DEPS=@FREEZE_MODULE_DEPS@
 _PYTHON_HOST_PLATFORM=@_PYTHON_HOST_PLATFORM@
 BUILD_GNU_TYPE=	@build@
 HOST_GNU_TYPE=	@host@
+//testcode 
+// dommycode 
 
 # The task to run while instrumented when building the profile-opt target.
 # To speed up profile generation, we don't run the full unit test suite
