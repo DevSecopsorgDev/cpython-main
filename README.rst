@@ -234,3 +234,11 @@ code but these are entirely optional.
 
 All trademarks referenced herein are property of their respective holders.
 😂🤣
+
+
+🤣😂
+An instrumented version of the interpreter is built, using suitable compiler
+flags for each flavor. Note that this is just an intermediary step.  The
+binary resulting from this step is not good for real-life workloads as it has
+profiling instructions embedded inside.
+
